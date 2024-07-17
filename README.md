@@ -18,7 +18,7 @@ This dashboard provides insights into trending topics based on Google Search dat
 1. **Total Searches by Keywords**: Real-time data on the total number of searches for each keyword.
 2. **Last 7 Days Value by Date**: Daily search values for the past week.
 3. **Search Values by Keywords**: Real-time search values categorized by keywords.
-
+![Image Description](https://github.com/Bharat74309/Google-Trends-Dashboard/blob/4c9d906e86a33498932f53cf70b24b280ee75745/Screenshot%202024-07-14%20194006.png)
 ### Rising & Top Keywords
 1. **Rising Keywords Values by Title**: Analysis of keywords with the most significant increase in searches.
 2. **Top Keywords Values by Title**: Analysis of the most searched keywords.
