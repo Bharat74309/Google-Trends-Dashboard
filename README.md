@@ -13,7 +13,7 @@ This dashboard provides insights into trending topics based on Google Search dat
 ### Keywords by Date
 1. **Keywords by Date Value**: Insights into keyword popularity on specific dates.
 2. **Keywords by Date (Dynamic Date)**: Analysis of keywords by yearly, quarterly, and monthly intervals.
-
+![Image Description](https://github.com/Bharat74309/Google-Trends-Dashboard/blob/3d54834551f76ef6db9b3eba3bc5acf9e211e6c4/Screenshot%202024-07-14%20193951.png)
 ### Real-time
 1. **Total Searches by Keywords**: Real-time data on the total number of searches for each keyword.
 2. **Last 7 Days Value by Date**: Daily search values for the past week.
