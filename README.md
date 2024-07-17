@@ -23,7 +23,7 @@ This dashboard provides insights into trending topics based on Google Search dat
 1. **Rising Keywords Values by Title**: Analysis of keywords with the most significant increase in searches.
 2. **Top Keywords Values by Title**: Analysis of the most searched keywords.
 3. **Values by Types**: Categorization of search values by type.
-
+![Image Description](https://github.com/Bharat74309/Google-Trends-Dashboard/blob/4d2975bf3b1269571a4a76bc2e7324298ceb6fc1/Screenshot%202024-07-14%20194006.png)
 ## Visualizations
 1. **Keywords with Country Value**: 
    - Column Chart
